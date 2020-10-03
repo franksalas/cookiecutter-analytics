@@ -11,12 +11,12 @@
 ## Setup environment
 Create enviroment from file
 ```bash
-conda env create -f base_environment.yml
+conda env create -f environments/base_environment.yml
 ```
 ## Activate environment
 
 ```bash
-conda activate environments/{{cookiecutter.env_name}}
+conda activate {{cookiecutter.env_name}}
 ```
 
 ## Update environment
