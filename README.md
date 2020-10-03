@@ -11,9 +11,9 @@ Usage
 -----
 Generate a new Cookiecutter template layout: `cookiecutter gh:franksalas/cookiecutter-analytics`    
 
-License
--------
-This project is licensed under the terms of the [MIT License](/LICENSE)
+# TODO
+- explain extra files
+- add code to add/remove example files
 
 ## Folder Structure
 ```
@@ -34,3 +34,8 @@ This project is licensed under the terms of the [MIT License](/LICENSE)
 └── src
     └── start.py
 ```
+
+
+License
+-------
+This project is licensed under the terms of the [MIT License](/LICENSE)
