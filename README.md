@@ -14,6 +14,8 @@ Generate a new Cookiecutter template layout: `cookiecutter gh:franksalas/cookiec
 # TODO
 - explain extra files
 - add code to add/remove example files
+- setup example code
+- 
 
 ## Folder Structure
 ```
